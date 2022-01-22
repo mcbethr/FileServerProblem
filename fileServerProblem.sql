@@ -16,8 +16,8 @@ INSERT INTO FileVersions (VersionNumber, DownloadFilename) VALUES
 
 
 /*
-#This query should give you what you want
-#Just change the CustomerVersionNumber to the version you need it to be.
+--This query should give you what you want
+--Just change the CustomerVersionNumber to the version you need it to be.
 
 Declare @CustomerVersionNumber as Integer = 0
 
